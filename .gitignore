@@ -1,0 +1,8 @@
+# Plaintext source — NEVER commit. Only the encrypted index.html goes to GitHub.
+source.html
+
+# Editor / OS junk
+.DS_Store
+.idea/
+.vscode/
+*.swp
